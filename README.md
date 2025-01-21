@@ -62,7 +62,7 @@ To classify skin cancer using skin lesions images. To achieve higher accuracy an
 - [Numpy](https://numpy.org/) - version 1.24.3
 - [Pandas](https://pandas.pydata.org/) - version 1.5.3
 - [Seaborn](https://seaborn.pydata.org/) - version 0.12.2
-- [Tensorflow](https://www.tensorflow.org/) - version 2.15.0
+- [Tensorflow](https://www.tensorflow.org/) - version 2.17.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
